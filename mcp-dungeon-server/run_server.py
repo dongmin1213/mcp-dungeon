@@ -2,7 +2,7 @@
 import sys
 import traceback
 
-LOG_FILE = r"C:\Users\DamonKim\Desktop\claude\Side\3.mcp-dungeon\mcp-dungeon-server\server_error.log"
+LOG_FILE = "/Users/da-eun/Desktop/ddong8/mcp-dungeon/mcp-dungeon-server/server_error.log"
 
 try:
     # 원래 서버 실행

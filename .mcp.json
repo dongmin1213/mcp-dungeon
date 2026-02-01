@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "mcp-dungeon": {
+      "command": "python3.11",
+      "args": [
+        "/Users/da-eun/Desktop/ddong8/mcp-dungeon/mcp-dungeon-server/run_server.py"
+      ],
+      "cwd": "/Users/da-eun/Desktop/ddong8/mcp-dungeon/mcp-dungeon-server"
+    }
+  }
+}
