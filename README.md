@@ -13,9 +13,6 @@
 | 언어 | Python 3.11+ |
 | DB | SQLite (로컬) |
 | 버전 | **v6.9** (Phase 1~4 완료, QA 완료) |
-| 코드 품질 | **8.0/10** |
-| 게임 평가 | **8.0/10** |
-| QA 점수 | **9.5/10** (288테스트 통과) |
 
 ---
 
@@ -87,7 +84,7 @@ docs/
 
 ```bash
 # 저장소 클론
-git clone https://github.com/damonkim-nsuslab/mcp-dungeon.git
+git clone https://github.com/dongmin1213/mcp-dungeon.git
 cd mcp-dungeon
 
 # 의존성 설치
